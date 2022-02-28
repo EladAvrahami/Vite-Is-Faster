@@ -12,6 +12,6 @@ get started here : https://vitejs.dev/guide/#scaffolding-your-first-vite-project
 7. enjoy (:  
 
 </br>
-Bonus - to uploud react created by Vite we will write on cmd "npm run build" (somtimes the new folder calld dist)
+Bonus - to uploud react created by Vite we will write on cmd "npm run build" (somtimes the new folder calld dist and not build)
 
 
